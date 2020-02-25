@@ -1,4 +1,4 @@
-//最短路径算法
+//最短路径算法，Floyd算法
 //邻接矩阵存储——多源最短路算法
 #include <stdio.h>
 #include <stdlib.h>
