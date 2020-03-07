@@ -22,3 +22,6 @@ https://www.icourse163.org/learn/ZJU-93001?tid=1207006212#/learn/announce
 
 ## 第五章 散列表
 散列函数、散列表、冲突处理
+
+## 第六章 其他算法
+串的模式匹配：KMP算法
